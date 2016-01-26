@@ -1,3 +1,3 @@
 # Hack-A-Thon
 
-This is a repository for making a form for a personal pet adoption site
+This is a form for a fictional pet adoption site
